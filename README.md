@@ -4,7 +4,7 @@
 
 Building scalable web applications and backend systems with:
 
-`TypeScript` · `NestJS` · `Nuxt.js` · `Vue.js` · `Node.js` · `PostgreSQL` · `Redis` · `Elasticsearch`
+`TypeScript` · `NestJS` · `React Native` · `React.js`  · `Nuxt.js` · `Vue.js` · `Node.js` · `PostgreSQL` · `Redis` · `Elasticsearch`
 
 ☁️ Cloud & DevOps: `Docker` · `Nginx` · `Cloudflare` · `Google Cloud` · `DigitalOcean`
 
